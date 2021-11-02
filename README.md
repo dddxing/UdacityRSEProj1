@@ -1,4 +1,4 @@
-A first project from Udacity Robotics Nanodegree. Main tasks:
+The first project from Udacity Robotics Nanodegree. Main tasks:
 
 - Build single floor structure in Gazebo
 - Model simple robot (with joints)
